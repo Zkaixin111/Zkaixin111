@@ -16,17 +16,19 @@
 
 ## 🧭 关于我
 
-- 计算机科学与技术本科（2027 届），方向：**Java 后端 + AI 应用工程化**
-- 独立完成 **5 个非模板项目**（从需求 → 建库 → 后端 → 前端 → 部署全流程），其中 **2 个 AI 全栈项目已部署上线，在线可体验**
-- 关注的不是"AI 能生成什么"，而是**"怎么让它在工程上可控"**：多智能体编排、RAG 检索链路、SSE 流式推送、LLM 可观测
-- 习惯给自己的系统做**评测与复盘**——先贤阁的几个 RAG 缺陷，都是跑评测集跑出来的，不是写代码时看出来的
+您好呀，我是一名 2027 届的计算机本科学生开发者，主攻 **Java 后端 + AI 应用开发**：
 
-### 🌐 在线演示（部署于阿里云 ECS：Docker + Nginx + systemd）
+- 🚀 爱做项目：独立完成 **5 个**全栈项目（需求 → 建库 → 后端 → 前端 → 部署全流程），其中 **2 个 AI 项目已部署上线**，现在就能体验：[协笔 CoWrite](http://114.215.197.30:8080) | [先贤阁](http://114.215.197.30:8090)
+- 🤖 专注把大模型做成**可控的工程系统**：多智能体编排 | RAG 全链路 | SSE 流式推送 | Function Calling | LLM 可观测
+- 🔍 习惯给系统做**评测与复盘**：自建 30 题人工标注评测集量化 RAG 效果——项目里的几个缺陷都是跑评测跑出来的，不是写代码时看出来的
+- 🛠 全链路自己扛：后端 Spring Boot / MySQL / Redis / RabbitMQ，前端 Vue3 + TypeScript，部署上阿里云 ECS（Docker + Nginx + systemd）
+- 🐍 Python 生态同步在握：FastAPI 异步后端实践 + LangChain / LangGraph RAG 项目
 
-| 项目 | 地址 |
-|---|---|
-| 协笔 CoWrite | http://114.215.197.30:8080 |
-| 先贤阁 | http://114.215.197.30:8090 |
+也许你需要：
+
+- 🖼 看项目成品与亮点讲解：[在线作品集](https://zkaixin111.github.io/portfolio/)
+- 📦 看源码：[协笔 CoWrite](https://github.com/Zkaixin111/zkx-ai-passage-creator) | [先贤阁](https://github.com/Zkaixin111/zkx-ai-sage-agent) | [拾光云图](https://github.com/Zkaixin111/zkx-java-picture) | [视频转换器](https://github.com/Zkaixin111/video-converter-desktop)
+- 📮 联系我（招聘 / 合作 / 交流）：[2948631716@qq.com](mailto:2948631716@qq.com)
 
 ---
 
