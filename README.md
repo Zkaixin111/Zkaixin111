@@ -57,7 +57,7 @@
 ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)
 ![Electron](https://img.shields.io/badge/Electron-47848F?logo=electron&logoColor=white)
 
-**Python 生态**（已掌握 · 持续深入）
+**Python 生态**
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain%20%2F%20LangGraph-1C3C3C?logo=langchain&logoColor=white)
